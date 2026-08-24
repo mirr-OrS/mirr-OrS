@@ -3,10 +3,10 @@ trying to grasp assembly level of understanding,
 because as a wise man said once:
 
 > Everything is open-source...  
-> if you can read assembly!\
-<pre>
-                      -Wise Man
-</pre>
+> if you can read assembly!  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Wise Man
+
+
 XD just kidding, but bootloaders are kind of complex :\
 ... I think you understood why I learned C, python's there just
 because it got me started on programming, oh btw, I ***know*** 
@@ -16,6 +16,4 @@ because it got me started on programming, oh btw, I ***know***
 Fun fact, started learning to draw, awesome stuff!!  
 Wish you all the best things,  
 with love,
-<pre>
-            -the Elegiast (or mirr-OrS :P)
-</pre>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-the Elegiast (or mirr-OrS :P)
