@@ -4,7 +4,7 @@ because as a wise man said once:
 
 "Everything is open-source...  
 if you can read assembly!"  
-            -Wise Man
+\t-Wise Man
                                     
 XD just kidding, but bootloaders are kind of complex :\
 ... I think you understood why I learned C, python's there just
@@ -15,4 +15,4 @@ because it got me started on programming, oh btw, I ***know***
 Fun fact, started learning to draw, awesome stuff!!  
 Wish you all the best things,  
 with love,  
-                        -the Elegiast (or mirr-OrS :P)
+\t\t-the Elegiast (or mirr-OrS :P)
