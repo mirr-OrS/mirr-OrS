@@ -1,7 +1,7 @@
 ### Hello
 
 ```text
-Hi OwO, I'm an intermediate in Python and C,  
+Hi OwO, I know Python and C, learning C++ and  
 trying to grasp assembly level of understanding,  
 because as a wise man said once:
 
