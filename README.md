@@ -18,5 +18,5 @@ because it got me started on programming, oh btw, I **know**
 Fun fact, started learning to draw, awesome stuff!!
 Wish you all the best things,
 with love,
-               -the Elegiast (or mirr-OrS :P)
+               -Nikita (Niki for short :P)
 ```
