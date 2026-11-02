@@ -11,9 +11,7 @@ if you can read assembly!"
 
 XD just kidding, but bootloaders are kind of complex
 ... I think you understood why I learned C, I want to build an *OS*, Python's there just
-because it got me started on programming, oh btw, I **know**
-*what AI code looks like, I know so should no one ever send me
-**that** kind of code!* >:)
+because it got me started on programming, oh btw, I HATE AI!!!!!
 
 Fun fact, started learning to draw, awesome stuff!!
 Wish you all the best things,
